@@ -6,7 +6,7 @@
 -  Moro no Brasil
 -  Aluno de Ciência da Computação
 -  Meus jogos favoritos:
--  Hollow Knight: Silksong,Persona 5 Royal,Pizza Tower
+-  Hollow Knight: Silksong, Persona 5 Royal, Battle Cats
 - Faço aula de Teclado
 -  Bonito
  
