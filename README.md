@@ -1,4 +1,5 @@
- 
+
+![Header](./github-header-banner.png) 
 # Olá, meu nome é Henrique!
   
 ## Aqui está umas informações sobre mim:
@@ -8,6 +9,4 @@
 -  Hollow Knight: Silksong,Persona 5 Royal,Pizza Tower
 - Faço aula de Teclado
 -  Bonito
-<!--
--->
-![Header](./github-header-banner.png)
+ 
