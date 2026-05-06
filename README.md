@@ -10,4 +10,4 @@
 -  Faço aula de Teclado
 - Bonito
 -->
-![Header](./github-header-banner.pngg)
+![Header](./github-header-banner.png)
