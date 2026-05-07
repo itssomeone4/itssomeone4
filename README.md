@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/henrique-lotz-brun-3b336b3b7/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-cyan?logo=Linkedin" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfnbRXvzwTRHhgKfVqbmKKMkpHMZmHpmrmLHjVGNqXkjKWGbdfCkhmxhMLWRRGRLDKRBML" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white" height="25" alt="gmail logo"  />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199248708681/" target="_blank">
