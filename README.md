@@ -20,6 +20,6 @@
 -  Meus jogos favoritos:
 -  Hollow Knight: Silksong, Persona 5 Royal, Battle Cats
 -  Faço aula de Teclado
--  Bonito
-
+-  Minha cor favorita é laranja
+-  Minha fruta favorita é laranja
 -  ![Header](./maxwell-maxwell-spin.gif)
